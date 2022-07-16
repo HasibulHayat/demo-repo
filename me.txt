@@ -1,4 +1,8 @@
 bolod
 na vai kaj hoise pore
 difftool o bujhchi
+<<<<<<< HEAD
 hmmmm
+=======
+bm c
+>>>>>>> bm
